@@ -38,7 +38,7 @@
 
         <div class="flex-1 px-2 mx-2">
           <!-- Navbar left item -->
-          📜
+          🍯
           <div class="inline-block">
             <div class="form-control">
               <label class="cursor-pointer label">
