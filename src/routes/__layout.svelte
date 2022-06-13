@@ -51,7 +51,7 @@
               </label>
             </div>
           </div>
-          🧁
+          🔘
         </div>
 
         <div class="flex-none hidden lg:block">
