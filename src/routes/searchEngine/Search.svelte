@@ -20,7 +20,7 @@ import { promise } from "./stores.js";
 
 
 {#if searched==false}
-    <p id="bild"> <img src="https://pbs.twimg.com/profile_images/1163151704973615105/62PeCDbZ_400x400.jpg" alt="yeas" width="100em"> </p>
+    <p id="bild"> <img src="https://pbs.twimg.com/profile_images/1163151704973615105/62PeCDbZ_400x400.jpg" alt="yeas" loading="lazy" width="100em"> </p>
 {/if}
 
 

@@ -91,7 +91,7 @@
   class="px-10 py-4 border-t footer bg-base-200 text-base-content border-base-300"
 >
   <div>
-    <img
+    <img loading="lazy"
       alt="Maja Beskowgymnasiet Logo"
       src="/majalogo.png"
       class="max-w-sm rounded-lg shadow-2xl"
