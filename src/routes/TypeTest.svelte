@@ -1,4 +1,5 @@
 <script>
+	// grundkod tagen från; https://github.com/WebDevSimplified/JS-Speed-Typing-Game
 	import { onMount } from "svelte";
 
 	let quote, inputText, Culor, timer;
